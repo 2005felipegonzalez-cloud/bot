@@ -1,1 +1,0 @@
-web: python3 polymarket_alert_bot.py
